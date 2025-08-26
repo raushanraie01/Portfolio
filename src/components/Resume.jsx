@@ -1,4 +1,3 @@
-import React from "react";
 import resumeBg from "../assets/resource-database-heCbzgivnHA-unsplash.jpg"; // Use a subtle tech or paper background
 
 const Resume = () => (
@@ -30,7 +29,7 @@ const Resume = () => (
       skills.
     </p>
     <a
-      href="/assets/Raushan_Kumar_Resume.pdf" // Place your PDF in the public/assets folder
+      href="/Portfolio/assets/Resume.pdf" // Place your PDF in the public/assets folder
       download="Resume.pdf"
       rel="noopener noreferrer"
       style={{

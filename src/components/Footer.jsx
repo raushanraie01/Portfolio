@@ -11,7 +11,7 @@ const Footer = () => (
       fontFamily: "Inter",
     }}
   >
-    &copy; 2025 Alex Singh. Made with React &lt;/&gt;
+    &copy; 2025 Raushan Kumar. Made with React &lt;/&gt;
   </footer>
 );
 
