@@ -48,7 +48,7 @@ const Resume = () => (
       Download Resume (PDF)
     </a>
     <iframe
-      src="/assets/Resume.pdf"
+      src="/Portfolio/assets/Resume.pdf"
       title="Resume Preview"
       style={{
         width: "90%",
